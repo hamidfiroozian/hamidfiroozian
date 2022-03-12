@@ -13,6 +13,7 @@
 
 
 
-## Full Stack / Blockchain Engineer
+## Full Stack /  Smart Contract Developer
+
 
   
