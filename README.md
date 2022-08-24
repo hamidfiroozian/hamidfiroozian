@@ -13,7 +13,7 @@
 
 
 
-## Full Stack /  Smart Contract Developer
+## Nodejs /  Smart Contract Developer
 
 
   
