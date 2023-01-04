@@ -1,6 +1,6 @@
 # Thanks for visiting  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-I am Hamid and i am a software developer
+I am a software developer
 <br/>
 As a Software developer that have been programming for more than 9 years i have :
 <br/>
