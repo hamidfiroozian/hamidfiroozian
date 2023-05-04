@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software developer<br>As a Software developer that have been programming for more than 9 years i have :<br>• 4 years experience of mobile development(java,flutter)<br>• more than 4 years commercial experience of working with javascript and typescript ,especially nodejs.<br>• Cooperation with Fintech teams .<br>• +1 years practical experience of blockchain development(solidity)
+• I am a software developer with 9+ years of programming experience and strong skills in web development.<br>• More than 4 years commercial experience of web development , working with javascript and typescript .<br>• Nestjs is used as a backend framework .<br>• Experience of implementing several microservice projects<br>• Cooperation with Fintech teams .<br>• About 2 years practical experience of blockchain development(solidity) .<br>• Write clean code and automated test coverage (Unit, integration, E2E, and functional tests) .<br>• 5 years experience of mobile development( I worked with Java and flutter but I'm not a mobile developer anymore , the most important achievement that java development brought me was deep understanding in OOP and multi thread programming) .<br>• Hard working person with passion for learning.
 
 
 ## 🌐 Socials:
